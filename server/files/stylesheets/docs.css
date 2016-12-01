@@ -78,6 +78,7 @@ p:last-child {
 
 /* Inline Code */
 pre {
+  direction: ltr;
   white-space: pre-wrap;
   white-space: -moz-pre-wrap;
   white-space: -pre-wrap;
@@ -86,7 +87,7 @@ pre {
 }
 pre {
   background-color: #FFFFFF;
-  text-align: right;
+  text-align: left;
 }
 pre.console {
   background-color: transparent;
@@ -113,7 +114,7 @@ pre code {
 }
 
 blockquote {
-  border-right: 4px solid #777777;
+  border-left: 4px solid #777777;
   font-size: 16px;
   line-height: 1.5;
   padding: 0em 2em;
