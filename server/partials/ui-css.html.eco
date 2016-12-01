@@ -50,5 +50,5 @@
 <link rel="stylesheet" type="text/css" class="ui" href="/dist/components/tab.rtl.css">
 <link rel="stylesheet" type="text/css" class="ui" href="/dist/components/transition.rtl.css">
 <% else: %>
-<link rel="stylesheet" type="text/css" class="ui" href="/dist/semantic.min.rtl.css">
+<link rel="stylesheet" type="text/css" class="ui" href="/dist/semantic.rtl.min.css">
 <% end %>
