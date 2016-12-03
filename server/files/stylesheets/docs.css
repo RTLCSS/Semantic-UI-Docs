@@ -39,6 +39,11 @@
   font-weight: 700;
 }
 
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  .ui.vertical.inverted.sidebar.overlay.menu {
+    padding-right: 16px;
+  }
+}
 
 /*--------------
      Page
