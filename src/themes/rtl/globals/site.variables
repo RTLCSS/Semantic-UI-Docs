@@ -1,0 +1,14 @@
+/*******************************
+         Site Settings
+*******************************/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+@googleFontName    : 'Noto Sans';
+
+/* Kufi imported in site.overrides */
+@headerFont        : 'Noto Kufi Arabic', 'Noto Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+@pageFont          : 'Noto Kufi Arabic', 'Noto Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+

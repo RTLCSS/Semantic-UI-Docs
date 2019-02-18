@@ -1,0 +1,7 @@
+/*******************************
+        Global Overrides
+*******************************/
+
+/* Import Droid Arabic Kufi */
+@import url(https://fonts.googleapis.com/earlyaccess/notokufiarabic.css);
+
